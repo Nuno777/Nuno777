@@ -2,8 +2,8 @@
 Student and Developer
 
 ### Connect with me
-[<img align="left" alt="discord" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-[<img align="left" alt="steam" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
+[<img align="left" target="_blank" alt="discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" target="_blank" alt="steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
 
 [discord]:https://cdn.discordapp.com/attachments/817577335381164040/848999849634430976/unknown.png
 [steam]:https://steamcommunity.com/id/OFFF777/
@@ -21,7 +21,7 @@ Student and Developer
 <br>
 
 ### GitHub Stats
-<img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nuno777&theme=dark&show_icons=true" />
+<img align="left" alt="Nuno GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nuno777&theme=dark&show_icons=true" />
 
 <!--
 **Nuno777/Nuno777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
