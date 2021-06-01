@@ -1,5 +1,5 @@
 ### Welcome to my profile
-Student and Developer
+University student and Developer
 
 ### Connect with me
 [<img align="left" target="_blank" alt="discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
