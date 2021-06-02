@@ -2,9 +2,11 @@
 University student and Developer
 
 ### Connect with me
+[<img align="left" target="_blank" alt="gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" target="_blank" alt="discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 [<img align="left" target="_blank" alt="steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
 
+[gmail]:nm.albano11@gmail.com
 [discord]:https://discord.gg/ajmfh9EFg5
 [steam]:https://steamcommunity.com/id/OFFF777/
 <br />
