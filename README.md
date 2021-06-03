@@ -25,13 +25,6 @@ University student and Developer
 <img align="left" alt="GitHub" width="28px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br>
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-### Spotify Playing 🎧
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/213ytl6yn7uti2czzwwzkbaza)
-
-[Spotify]: https://open.spotify.com/user/213ytl6yn7uti2czzwwzkbaza
-
 ### GitHub Stats
 <img align="left" alt="Nuno GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nuno777&theme=dark&show_icons=true" />
 
