@@ -2,7 +2,7 @@
 University student and Web Developer
 
 ### Connect with me
-[<img align="left" target="_blank" alt="discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" target="_blank" alt="discord" width="22px" src="https://avatars.githubusercontent.com/u/1965106?s=200&v=4 " />][discord]
 [<img align="left" target="_blank" alt="steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
 [<img align="left" target="_blank" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <a href="mailto:nm.albano11@gmail.com" target="_blank">
