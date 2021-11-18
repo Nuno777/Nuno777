@@ -4,12 +4,14 @@ University student and Developer
 ### Connect with me
 [<img align="left" target="_blank" alt="discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 [<img align="left" target="_blank" alt="steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
+[<img align="left" target="_blank" alt="steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <a href="mailto:nm.albano11@gmail.com" target="_blank">
   <img align="left" alt="gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
 [discord]:https://discord.gg/ajmfh9EFg5
 [steam]:https://steamcommunity.com/id/OFFF777/
+[linkedin]:https://www.linkedin.com/in/nuno-miguel-b13841225/
 <br>
 
 ### Languages and Tools
