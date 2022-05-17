@@ -28,8 +28,8 @@ Junior Full Stack Web Developer and University student IPL
 <img align="left" alt="GitHub" width="28px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br>
 
-### GitHub Stats
-<img align="left" alt="Nuno GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nuno777&theme=dark&show_icons=true" />
+<!--### GitHub Stats
+<img align="left" alt="Nuno GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nuno777&theme=dark&show_icons=true" />-->
 
 <!--
 **Nuno777/Nuno777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
