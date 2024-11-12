@@ -1,5 +1,5 @@
 ### Welcome to my profile
-Web Developer
+Junior Web Developer
 
 ### Connect with me
 [<img align="left" target="_blank" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
