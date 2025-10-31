@@ -1,14 +1,6 @@
 ### Welcome to my profile
 Junior Web Developer
 
-### Connect with me
-[<img align="left" target="_blank" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<a href="mailto:nm.albano11@gmail.com" target="_blank">
-  <img align="left" alt="gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-
-[steam]:https://steamcommunity.com/id/OFFF777/
-[linkedin]:https://www.linkedin.com/in/nuno-miguel-b13841225/
 <br>
 
 ### Languages and Tools
@@ -23,22 +15,3 @@ Junior Web Developer
 <img align="left" alt="Laravel"width="28px"src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"/>
 <img align="left" alt="MySQL" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
 <img align="left" alt="GitHub" width="28px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<br>
-
-<!--### GitHub Stats
-<img align="left" alt="Nuno GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nuno777&theme=dark&show_icons=true" />-->
-
-<!--
-**Nuno777/Nuno777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
